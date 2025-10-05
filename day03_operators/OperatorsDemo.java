@@ -32,7 +32,7 @@ public class OperatorsDemo {
 
         // modulo
         result = num1 % num2;
-        System.out.println("Division: " + result);
+        System.out.println("Modulus: " + result);
 
     }
 }
