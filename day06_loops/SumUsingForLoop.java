@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumUsUsingForLoop {
+public class SumUsingForLoop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
