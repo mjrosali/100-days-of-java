@@ -8,13 +8,13 @@ public class ArrayAverage {
         String numString = scanner.nextLine();
         String[] numArray = numString.split(" ");
 
-        int sumTotal = 0;
+        double sumTotal = 0;
 
         for (String s : numArray) {
             double num = Double.parseDouble(s);
             sumTotal += num;
         }
-        System.out.println("Average: " + (double) (sumTotal / numArray.length));
+        System.out.println("Average: " + (sumTotal / numArray.length));
         scanner.close();
     }
 }
