@@ -3,7 +3,7 @@
 | **1**  | Java Basics                    | Syntax, `main()` method, variables, printing output        | Basic Java setup & code execution               | 
 | **2**  | User Input                     | Using `Scanner`, reading strings & numbers                 | Input handling, type conversion                 | 
 | **3**  | Operators                      | Arithmetic operations, order of precedence                 | Expression building & debugging                 | 
-| **4**  | Comparison & Logical Operators | `>`, `<`, `==`, `!=`, `&&`, ``                             | Conditional evaluation                          |
+| **4**  | Comparison & Logical Operators | `>`, `<`, `==`, `!=`, `&&`, `||`                           | Conditional evaluation                          |
 | **5**  | Conditionals                   | `if`, `else if`, `else`, nested conditions                 | Decision-making logic                           | 
 | **6**  | Loops                          | `for`, `while`, `do-while`                                 | Iterative logic & control flow                  | 
 | **7**  | Arrays                         | Declaring arrays, iteration, min/max, average              | Data storage & computation                      | 
