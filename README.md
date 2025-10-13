@@ -1,14 +1,14 @@
-| Day    | Topic                          | Key Concepts Learned                                          | Skills Demonstrated                                                          |   |                        |
-| ------ | ------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------- | - | ---------------------- |
-| **1**  | Java Basics                    | Syntax, `main()` method, variables, printing output           | Basic Java setup & execution                                                 |   |                        |
-| **2**  | User Input                     | Using `Scanner`, reading strings & numbers                    | Input handling & type conversion                                             |   |                        |
-| **3**  | Operators                      | Arithmetic operators, precedence rules                        | Expression building & debugging                                              |   |                        |
-| **4**  | Comparison & Logical Operators | `>`, `<`, `==`, `!=`, `&&`, `||`                              | Conditional evaluation                                                       |   |
-| **5**  | Conditionals                   | `if`, `else if`, `else`, nested conditions                    | Decision-making & branch logic                                               |   |                        |
-| **6**  | Loops                          | `for`, `while`, `do-while`                                    | Iterative control & loop flow                                                |   |                        |
-| **7**  | Arrays                         | Declaring arrays, iteration, min/max, average                 | Data storage & processing                                                    |   |                        |
-| **8**  | Enhanced Loops                 | `for-each`, reversing arrays, even/odd filtering              | Clean iteration & array manipulation                                         |   |                        |
-| **9**  | Strings                        | Length, case conversion, comparison, vowel/consonant counting | Text processing & string operations                                          |   |                        |
-| **10** | Methods & Return Values        | Defining methods, parameters, return types                    | Modular & reusable code design                                               |   |                        |
-| **11** | Method Overloading             | Same method name with different parameters / types            | Compile-time polymorphism & flexible API design                              |   |                        |
-| **12** | Recursion                      | Base cases, self-calls, Fibonacci recursion                   | Problem decomposition, stack flow analysis, recursion optimization awareness |   |                        |
+| Day    | Topic                          | Key Concepts Learned                                          | Skills Demonstrated                                                          |
+| ------ | ------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **1**  | Java Basics                    | Syntax, `main()` method, variables, printing output           | Basic Java setup & execution                                                 |
+| **2**  | User Input                     | Using `Scanner`, reading strings & numbers                    | Input handling & type conversion                                             |
+| **3**  | Operators                      | Arithmetic operators, precedence rules                        | Expression building & debugging                                              |
+| **4**  | Comparison & Logical Operators | `>`, `<`, `==`, `!=`, `&&`, `\|\|`                            | Conditional evaluation                                                       |
+| **5**  | Conditionals                   | `if`, `else if`, `else`, nested conditions                    | Decision-making & branch logic                                               |
+| **6**  | Loops                          | `for`, `while`, `do-while`                                    | Iterative control & loop flow                                                |
+| **7**  | Arrays                         | Declaring arrays, iteration, min/max, average                 | Data storage & processing                                                    |
+| **8**  | Enhanced Loops                 | `for-each`, reversing arrays, even/odd filtering              | Clean iteration & array manipulation                                         |
+| **9**  | Strings                        | Length, case conversion, comparison, vowel/consonant counting | Text processing & string operations                                          |
+| **10** | Methods & Return Values        | Defining methods, parameters, return types                    | Modular & reusable code design                                               |
+| **11** | Method Overloading             | Same method name with different parameters / types            | Compile-time polymorphism & flexible API design                              |
+| **12** | Recursion                      | Base cases, self-calls, Fibonacci recursion                   | Problem decomposition, stack flow analysis, recursion optimization awareness |
