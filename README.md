@@ -12,3 +12,4 @@
 | **10** | Methods & Return Values        | Defining methods, parameters, return types                    | Modular & reusable code design                                               |
 | **11** | Method Overloading             | Same method name with different parameters / types            | Compile-time polymorphism & flexible API design                              |
 | **12** | Recursion                      | Base cases, self-calls, Fibonacci recursion                   | Problem decomposition, stack flow analysis, recursion optimization awareness |
+| **13** | OOP – Constructors & Encapsulation | Classes with private fields, constructors, getters/setters; object creation using `Expense.java` and `Main.java` | Encapsulation, constructor usage, object-oriented design                     |
