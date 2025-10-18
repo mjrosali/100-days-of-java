@@ -14,3 +14,5 @@
 | **12** | Recursion                      | Base cases, self-calls, Fibonacci recursion                   | Problem decomposition, stack flow analysis, recursion optimization awareness |
 | **13** | OOP – Constructors & Encapsulation | Classes with private fields, constructors, getters/setters; object creation using `Expense.java` and `Main.java` | Encapsulation, constructor usage, object-oriented design                     |
 | **14** | Encapsulation | Private fields, getters/setters, validation logic | Data protection, controlled access, maintainable OOP design |
+| **15** | OOP Basics – Classes & Objects | Created a simple `Animal` class and tested object creation and method calls in `Main.java`. | Class, Object, Constructor, Encapsulation
+
