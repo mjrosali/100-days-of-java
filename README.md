@@ -15,4 +15,5 @@
 | **13** | OOP – Constructors & Encapsulation | Classes with private fields, constructors, getters/setters; object creation using `Expense.java` and `Main.java` | Encapsulation, constructor usage, object-oriented design                     |
 | **14** | Encapsulation | Private fields, getters/setters, validation logic | Data protection, controlled access, maintainable OOP design |
 | **15** | OOP Basics – Classes & Objects | Created a simple `Animal` class and tested object creation and method calls in `Main.java`. | Class, Object, Constructor, Encapsulation
-
+| **16** | Problem Sets | Real-world Java problems (collections, loops, and algorithms) | Logic building, problem solving, interview preparation |
+| **17** | Collections – Set, Map Integration | `HashSet`, `TreeSet`, `HashMap`, `retainAll()`, `getOrDefault()` | Data uniqueness, sorting, frequency counting, comparison between users |
